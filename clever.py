@@ -1,3 +1,3 @@
-for str in Banana:
-    print(banana)
+for str in "Banana":
+    print("banana")
     
